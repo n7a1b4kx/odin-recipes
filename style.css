@@ -49,6 +49,14 @@ html {
     padding: 16px;
 }
 
+h3, h4 {
+    margin: 16px 32px;
+}
+
+ul, ol {
+    margin: auto 24px;
+}
+
 .first.heading {
     font-size: 28px;
     color: rgb(154, 130, 230);
@@ -72,5 +80,5 @@ html {
     text-align: justify;
     font-size: 20px;
     color: black;
-    padding: auto 96px;
+    margin: auto 96px;
 }
